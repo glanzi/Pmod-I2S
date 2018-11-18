@@ -1,6 +1,7 @@
 # Pmod I2S - Stereo Audio Output 
 
 The Pmod I2S board is a stereo audio output based on a CS4344 Stereo D/A converter from Cirrus Logic.
+This board is based on and compatible with Eric Brombaugh's [I2S Audio DAC](http://ebrombaugh.studionebula.com/synth/audiodac/index.html) project.
 
 ![Alt text](Pmod-I2S.png?raw=true "TinyFPGA UP board")
 
